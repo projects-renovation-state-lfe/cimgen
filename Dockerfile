@@ -1,5 +1,5 @@
 # NOSONAR
-FROM python:3.11
+FROM python:3.15
 
 # NOSONAR
 COPY ./ /cimgen
